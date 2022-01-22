@@ -16,18 +16,26 @@ def loop_students():
 
 def copy_sol_files(student_dir):
     with os.scandir(SOLUTION_DIR) as files:
-        for file in files:
 
-            # what we are naming it
-            src_dir = f'{SOLUTION_DIR}\{file.name}'
-            dest_dir = f'{LAB_DIR}\{student_dir}\{STUDENT_PATH}\{file.name}'
+        # determines if student has correct file structure
+        place_dir = f'{LAB_DIR}\{student_dir}\{STUDENT_PATH}'
+        if os.path.isdir(place_dir):
 
-            if file.is_dir():
-                print(f'\t * Moving directory {file.name}')
-                shutil.copytree(src_dir, dest_dir)
-            else:
-                print(f'\t * Moving test file {file.name}')
-                shutil.copy(src_dir, dest_dir)
+            for file in files:
+
+                src_dir = f'{SOLUTION_DIR}\{file.name}'
+                dest_dir = f'{LAB_DIR}\{student_dir}\{STUDENT_PATH}\{file.name}'    # what we are naming it
+
+                if file.is_dir():
+                    shutil.copytree(src_dir, dest_dir)
+                    print(f'\t * Moving directory {file.name}')
+                else:
+                    shutil.copy(src_dir, dest_dir)
+                    print(f'\t * Moving test file {file.name}')
+
+        else:
+
+            print(f'!! {student_dir} does not have the correct file structure... Do manually')
 
 
 def main():

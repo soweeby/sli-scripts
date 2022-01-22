@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from zipfile import ZipFile
+from datetime import datetime
 
 
 # dictionary - name and time modified as value
@@ -35,22 +36,31 @@ def extract_sequence(assign_name):
     print('==== Extracting downloading folder.... ====')
     new_folder = assign_name.replace(' ', '_')
     extract(filename, new_folder)
-    os.remove(filename)
     print('Finished and removing zip folder....')
 
     print('==== Extracting submissions folder.... ====')
     submits = Path(new_folder)
     for sub in submits.glob('*.zip'):
         student_name = sub.name.split(' - ')[1]
-        print(f' * Extracting "{student_name}"....')
+        sub_date = sub.stat().st_mtime
+        print(f' * Extracting "{student_name}", Submitted @ {convert_date(sub_date)}....')
         extract(f'{new_folder}\{sub.name}', f'{new_folder}\{student_name}')
         os.remove(f'{new_folder}\{sub.name}')
     print('Finished extracting submissions!')
+
+    print('==== Deleting original files... ====')
+    os.remove(filename)
+    print('==== Finished deleting files ====')
 
 
 def extract(zipped_dir, target_dir):
     with ZipFile(zipped_dir) as zipfile:
         zipfile.extractall(target_dir)
+
+
+def convert_date(timestamp):
+    d = datetime.utcfromtimestamp(timestamp)
+    return d.strftime('%a (%m %d)')
 
 
 def main():
