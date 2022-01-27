@@ -1,0 +1,500 @@
+<configuration name=".idea - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name=".idea" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name=".idea - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name=".idea" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="McRoberts, Connor - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="McRoberts, Connor" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="McRoberts, Connor - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="McRoberts, Connor" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Mei, James - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Mei, James" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Mei, James - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Mei, James" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Migely, Jack - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Migely, Jack" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Migely, Jack - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Migely, Jack" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Mishra, Aarohan - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Mishra, Aarohan" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Mishra, Aarohan - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Mishra, Aarohan" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Nagy, Eliot - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Nagy, Eliot" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Nagy, Eliot - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Nagy, Eliot" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Ng, Simon - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Ng, Simon" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Ng, Simon - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Ng, Simon" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Ong, Ryan - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Ong, Ryan" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Ong, Ryan - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Ong, Ryan" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Pham, Khoi - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Pham, Khoi" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Pham, Khoi - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Pham, Khoi" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Pittman, Daniel - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Pittman, Daniel" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Pittman, Daniel - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Pittman, Daniel" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Quach, Lindy - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Quach, Lindy" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Quach, Lindy - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Quach, Lindy" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Reid, Connor - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Reid, Connor" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Reid, Connor - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Reid, Connor" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Rivera, Rafa - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Rivera, Rafa" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Rivera, Rafa - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Rivera, Rafa" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Romero, Lucas - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Romero, Lucas" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Romero, Lucas - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Romero, Lucas" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sanders, Alexis - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sanders, Alexis" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sanders, Alexis - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sanders, Alexis" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sciamatore, Aiden - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sciamatore, Aiden" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sciamatore, Aiden - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sciamatore, Aiden" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sonika, Aniket - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sonika, Aniket" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Sonika, Aniket - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Sonika, Aniket" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Strodl, Mary - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Strodl, Mary" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Strodl, Mary - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Strodl, Mary" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Talbot, Joshua - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Talbot, Joshua" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Talbot, Joshua - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Talbot, Joshua" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Talbot, Justin - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Talbot, Justin" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Talbot, Justin - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Talbot, Justin" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Vinneras, Oliver - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Vinneras, Oliver" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Vinneras, Oliver - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Vinneras, Oliver" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Vuong, Ethan - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Vuong, Ethan" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Vuong, Ethan - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Vuong, Ethan" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Wolff, Harbor - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Wolff, Harbor" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Wolff, Harbor - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Wolff, Harbor" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Wu, Kevin - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Wu, Kevin" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Wu, Kevin - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Wu, Kevin" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Yansick, Andrew - mastermind-in-1234.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Yansick, Andrew" />
+  <option name="PROGRAM_PARAMETERS" value="1234" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-1234.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
+<configuration name="Yansick, Andrew - mastermind-in-7483.txt" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="mastermind.MasterMind" />
+  <module name="Yansick, Andrew" />
+  <option name="PROGRAM_PARAMETERS" value="7438" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/solutions/lab2_sol/mastermind-in-7483.txt" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>

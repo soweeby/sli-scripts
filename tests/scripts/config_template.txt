@@ -1,0 +1,10 @@
+<configuration name="{config_name}" type="Application" factoryName="Application">
+  <option name="MAIN_CLASS_NAME" value="{class_name}" />
+  <module name="{module_name}" />
+  <option name="PROGRAM_PARAMETERS" value="{cmd_params}" />
+  <option name="REDIRECT_INPUT" value="true" />
+  <option name="INPUT_FILE" value="$PROJECT_DIR$/../tests/{solution_path}" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
