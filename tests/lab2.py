@@ -5,7 +5,7 @@ SOL_PATH = 'solutions/lab2_sol'
 CONFIG_DICT = {
     'mastermind.MasterMind': {
         'mastermind-in-1234.txt': 1234,
-        'mastermind-in-7483.txt': 7438,
+        'mastermind-in-7483.txt': 7483,
     }
 }
 
