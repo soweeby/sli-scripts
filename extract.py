@@ -44,8 +44,8 @@ def extract_sequence(assign_name):
         student_name = sub.name.split(' - ')[1]
         sub_date = sub.stat().st_mtime
         print(f' * Extracting "{student_name}", Submitted @ {convert_date(sub_date)}....')
-        extract(f'{new_folder}\{sub.name}', f'{new_folder}\{student_name}')
-        os.remove(f'{new_folder}\{sub.name}')
+        extract(f'{new_folder}/{sub.name}', f'{new_folder}/{student_name}')
+        os.remove(f'{new_folder}/{sub.name}')
     print('Finished extracting submissions!')
 
     print('==== Deleting original files... ====')
