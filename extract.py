@@ -1,3 +1,12 @@
+"""
+extract.py
+
+Extracts zip file downloaded from myCourses and stores the extracted files (student submissions) in a new folder.
+It then goes into the new folder to extract the students' zip folders into new folders with their name
+
+author: Ashley Liew
+"""
+
 import os
 from pathlib import Path
 from zipfile import ZipFile
@@ -6,6 +15,9 @@ from datetime import datetime
 
 # dictionary - name and time modified as value
 def get_assign_name():
+    """
+    Gets the assignment name of the zip file to extract
+    """
     assign_type = input('Type [(f)inal-lab, (p)re-lab]: ').lower()
     if assign_type not in ['f', 'p']:
         assign_type = input('Please try again [(f)inal-lab, (p)re-lab]: ').lower()
@@ -22,6 +34,10 @@ def get_assign_name():
 
 
 def extract_sequence(assign_name):
+    """
+    proceeds through extraction sequence of zip file
+    :param assign_name: assignment name of zip file to extract
+    """
     filename = None
     with os.scandir() as files:
         for file in files:  # file is a zip file
@@ -54,11 +70,21 @@ def extract_sequence(assign_name):
 
 
 def extract(zipped_dir, target_dir):
+    """
+    Extracts zip file into target directory
+    :param zipped_dir: directory of zip file to extract
+    :param target_dir: target directory to extract zip file into
+    """
     with ZipFile(zipped_dir) as zipfile:
         zipfile.extractall(target_dir)
 
 
 def convert_date(timestamp):
+    """
+    converts a POSIX timestamp to a UTC datetime
+    :param timestamp: POSIX timestamp to convert
+    :return: string version of UTC datetime
+    """
     d = datetime.utcfromtimestamp(timestamp)
     return d.strftime('%a (%m %d)')
 
