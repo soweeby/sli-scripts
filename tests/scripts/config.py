@@ -1,9 +1,22 @@
+"""
+config.py
+
+Creates intellij configurations for students' projects
+
+author: Ashley Liew
+"""
 import os
 
 CONFIG_TEMPLATE = open('scripts/config_template.txt', 'r').read()
 
 
 def loop_students(lab_dir, sol_path, config_dict):
+    """
+    Loops through all the students to create their configs
+    :param lab_dir: Where the student directories are stored
+    :param sol_path: Where the solution directories are stored
+    :param config_dict: The configurations to make
+    """
     with os.scandir(lab_dir) as students:
         for student in students:
             if student.is_dir():
@@ -12,6 +25,12 @@ def loop_students(lab_dir, sol_path, config_dict):
 
 
 def add_to_config(student_dir, sol_path, config_dict):
+    """
+    Creates a file which stores all the students' run configurations
+    :param student_dir: student directory
+    :param sol_path: solution path
+    :param config_dict:
+    """
     # create a config file
     config_file = open("config_file.txt", "a")
 
