@@ -1,6 +1,9 @@
 # sli-scripts
 scripts to make grading easier for me
 
+### Required Dependencies
+- openpyxl (for `spreadsheet.py` - can be installed with `pip install openpyxl`)
+
 ### File Structure
 Here are the main files and their descriptions.
 
@@ -26,3 +29,9 @@ These files are general automated operations that can be used with any labs. The
 - script for creating Intellij configuration elements for c+p into xml file
 ## Changed
 - file structure for tests: new `scripts\` directory for general scripts
+
+## 1/29/22 (start of things unique to roshan's fork)
+## Added
+- created `spreadsheet.py`, a script for generating grading spreadsheet with a list of students and cells for their pss, inlab, and lab grades, as well as a formula to calculate the total grade for each student.
+## Changed
+- fixed `extract.py` to work for linux file paths
